@@ -19,7 +19,7 @@ go run . helloword shadow
 
 Save your ASCII art to a file:
 ```go
-go run . --oprion="filename.txt" helloworld
+go run . --option="filename.txt" helloworld
 ```
 
 Generate colored ASCII art:
